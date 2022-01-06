@@ -1,0 +1,117 @@
+body{
+    font-family: 'Karla', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Work Sans', sans-serif;
+}
+.h1{
+    font-size: 40px;
+    border-left:3px solid;
+    border-image: linear-gradient(#f6b73c, #4d9f0c);
+    border-image-slice: 1;
+    
+    
+    
+    
+
+}
+.yellow-color{
+    color: darkgoldenrod;
+}
+.border{
+    border-left:3px solid;
+    padding-left: 2px;
+    
+}
+.link-button{
+    text-decoration: none;
+    background-color: goldenrod;
+    padding: 10px 30px;
+    border-radius: 5px;   
+}
+.fexible-container{
+    display: flex;
+
+}
+.half-width{
+    width: 50%;
+    padding-left: 10%;
+    
+}
+.half-width img{
+    width: 60%;
+}
+
+.title{
+    padding-left: 500px;
+    font-size: 30px;
+    
+ 
+}
+span{
+    color: chocolate;
+}
+.coding{
+    width: 300px;
+    padding-left: 120px;
+    padding-top: 20px;
+    padding-right: 30px;
+     
+}
+.read-button{
+    text-decoration: none;
+    background-color: goldenrod;
+    padding: 10px 30px;
+    border-radius: 5px;   
+}
+.community-img{
+    width: 350px;
+    padding-right: 120px;
+    padding-top: 40px;
+    padding-right: 30px;
+    
+}
+.community-title{
+    width: 500px;
+    padding: 111px;
+    
+}
+.community-h1{
+    font-size: 30px;
+}
+
+.app{
+     color: rgb(48, 45, 255);
+}
+.app-title{
+    text-align:center;
+    font-size:30px ;
+    
+    
+}
+.hero-app{
+    color: rgb(48, 45, 255);
+    
+}
+.application-img{
+    width: 300px;
+    padding-left: 200px;
+    padding-top: 20px;
+    padding-right: 30px;
+}
+.Download-button{
+    text-decoration: none;
+    background-color: rgb(71, 69, 196);
+    padding: 10px 30px;
+    border-radius: 5px; 
+    
+}
+
+.footter{
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    color: blanchedalmond;
+}
+.year{
+
+    color: darkorange;
+}
